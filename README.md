@@ -5,22 +5,30 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages & Frameworks**
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### Language
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,py,js" />
+</p>
 
-**Databases & Caching**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+---
 
+### Web & App
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,mysql,redis" />
+</p>
 
+---
 
-### 🤝 Connect with Me
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+---
+
+## 🤝 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-rhoyeongjae%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhoyeongjae@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rhoyeongjae-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rhoyeongjae)
