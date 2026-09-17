@@ -31,4 +31,3 @@
 ## 🤝 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-rhoyeongjae%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhoyeongjae@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rhoyeongjae-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rhoyeongjae)
