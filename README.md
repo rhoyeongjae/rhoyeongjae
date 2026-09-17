@@ -1,5 +1,4 @@
 # Hi 👋, I'm ROH YEONGJAE (노영재)
-### 🚀 Continuous Growth & Problem Solving
 
 > 꾸준한 성장과 더 나은 코드를 고민하는 개발자 노영재입니다.
 
@@ -9,7 +8,7 @@
 
 ### Language
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,py,js" />
+  <img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
 ---
