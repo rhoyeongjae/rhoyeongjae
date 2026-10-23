@@ -4,23 +4,9 @@
 
 ---
 
-### 🐾 Coding Companion
-<div align="center">
-  <img src="https://readme-pet.vercel.app/pet?name=Nyang&type=cat" alt="Pet" />
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 | Category | Badges |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,js,ts" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,js,ts,spring,node.js" /> |
 | **Database** | <img src="https://skillicons.dev/icons?i=mysql,redis" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github" /> |
-
----
-
-### 🤝 Connect with Me
-
-[![Email Badge](https://img.shields.io/badge/Email-rhoyeongjae%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhoyeongjae@gmail.com)
