@@ -8,5 +8,5 @@
 
 | Category | Badges |
 | :--- | :--- |
-| **Languages & Frameworks** | <img src="https://skillicons.dev/icons?i=java,js,spring,nodejs" /> |
+| **Languages & Frameworks** | <img src="https://skillicons.dev/icons?i=java,C++, python,js,spring,nodejs" /> |
 | **Database & Cache** | <img src="https://skillicons.dev/icons?i=mysql,redis" /> |
