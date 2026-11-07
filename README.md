@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ I'm Learning...
 
 | Category | Badges |
 | :--- | :--- |
